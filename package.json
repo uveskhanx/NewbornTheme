@@ -1,0 +1,40 @@
+{
+	"name": "new-born-theme",
+	"displayName": "NewbornTheme",
+	"description": "NewbornTheme - Dark Edition: A sleek, vibrant purple dark theme for Visual Studio Code with modern syntax highlighting and eye-friendly contrast.",
+	"version": "0.0.1",
+	"publisher": "uveskhanx",
+	"icon": "images/newborncodelogo.jpg",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/uveskhanx/NewbornTheme"
+	},
+	"engines": {
+    "vscode": "^1.70.0"
+	},
+	"keywords": [
+    "theme",
+    "dark theme",
+    "purple theme",
+    "visual studio code theme",
+    "best dark theme",
+    "coder theme",
+    "newborncode",
+    "uves khan"
+	],
+	
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "NewbornTheme - Dark Edition",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-theme.json"
+			}
+		]
+	}
+	
+}
