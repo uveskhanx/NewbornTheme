@@ -1,4 +1,4 @@
-# My Cool Theme 🌙
+# NewbornTheme
 
 A sleek, modern, and minimal dark theme for Visual Studio Code. Designed to reduce eye strain and make your code more readable while keeping a vibrant look for syntax highlighting.
 
