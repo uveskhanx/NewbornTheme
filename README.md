@@ -21,9 +21,8 @@ There are two ways to install the theme:
 
 ### 1. From Visual Studio Marketplace
 
-1. Go to the [Visual Studio Marketplace](https://marketplace.visualstudio.com/manage) page for this theme.
+1. Go to the [NewbornTheme](https://marketplace.visualstudio.com/items?itemName=UvesKhan.new-born-theme) page in vs studio marketplace for this theme.
 2. Click **Install**.
-3. Open VS Code → Press `Ctrl+K Ctrl+T` → Select **My Cool Theme**.
 
 ### 2. From VSIX file (Manual)
 
@@ -33,10 +32,3 @@ There are two ways to install the theme:
 
 ---
 
-## Customization 🎨
-
-You can customize colors by editing `themes/MyCoolTheme-color-theme.json`.  
-For example, change editor background:
-
-```json
-"editor.background": "#1E1E1E"
